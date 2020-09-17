@@ -18,6 +18,6 @@
  
  ## Screenshots:
  
- ![alt text]()
+ ![alt text](https://github.com/Shubsm/Rido/blob/master/Capture1.PNG)
  
 
