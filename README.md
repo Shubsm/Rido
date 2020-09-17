@@ -9,5 +9,5 @@
 
   On Driver Side- here’s how it works:
   - Just open the app and choose the nearest user from list.
-  -The app uses we location and location of user and show the way on maps
+  -The app uses we location and location of user and show the way on maps.
 
