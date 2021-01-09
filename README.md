@@ -15,9 +15,11 @@
   - ***Software used*** - Android Studio 3.4.2
   - ***Language Used*** - Java
   - ***Minimum API level*** - 27 
+  - ***Bitnami Parser running on AWS EC2 instance***
  
  ## Screenshots:
  
  ![alt text](https://github.com/Shubsm/Rido/blob/master/Capture1.PNG)
  
-
+ ## Scope of Improvement:
+ - Payment using Paytm SDK
