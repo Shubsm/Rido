@@ -5,7 +5,7 @@
    Requesting we Rido is easy – here’s how it works:
 
   - Just open the app and tell us where we want to go.
-  - The app uses we location so we driver knows where to pick we up.
+  - The app uses our location so driver knows where to pick  up.
 
   On Driver Side- here’s how it works:
   - Just open the app and choose the nearest user from list.
